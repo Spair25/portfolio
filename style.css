@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 1px;
+    border-radius: 10px;
+    display: block;
+    
+
+}
+nav a{
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 50px;
+    border: dotted white;
+    text-decoration: none;
+    
+}
+footer{
+    background-color: black;
+    display: block;
+    border: dotted white;
+    border-radius: 10px;
+}
+header h1{
+    font-size: 35px;
+    text-align: center;
+    padding: 10px;
+    display: block;
+    
+   
+}
+header img{
+    
+}
+div{
+    
+}
+main{
+    background-color: lightgray;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 30px;
+    
+    border: dotted black;
+}
+footer img{
+    border: dotted white ;
+    border-radius: 10px;
+    display: block;
+}
+main img{
+    border-radius: 10px;
+    border: dotted black;
+}
+header h1:hover{
+    font-size: 37px;
+    transform: 3s;
+}
